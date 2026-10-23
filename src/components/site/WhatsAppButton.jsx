@@ -1,6 +1,6 @@
 import { cn } from '@/lib/utils';
 
-const PHONE = '528123687903';
+const PHONE = '528123232945';
 const MESSAGE = 'Hola Flores Marketing, me gustaría cotizar un proyecto.';
 
 export default function WhatsAppButton({ className, label = 'Escríbenos por WhatsApp' }) {

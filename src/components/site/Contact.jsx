@@ -85,7 +85,7 @@ export default function Contact() {
               <span className="flex h-10 w-10 items-center justify-center rounded-full border border-background/20">
                 <MapPin className="h-4 w-4" />
               </span>
-              CDMX, México · Atendemos a todo el país
+              Juarez, N.L., México · Atendemos a todo el país
             </div>
           </Reveal>
         </div>
